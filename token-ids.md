@@ -1,6 +1,6 @@
 # Trusted token list
 
-Sure, I'll rearrange the table according to your specifications:
+A list of token ID's
 
 # Token ID's
 
