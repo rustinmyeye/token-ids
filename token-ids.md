@@ -1,7 +1,5 @@
 # Trusted token list
-
-A list of token ID's
-
+A list of token ID's that should not contain any NSFW content. 
 # Token ID's
 
 | Token Name            | NFT   | About     | Token ID                                                         |
