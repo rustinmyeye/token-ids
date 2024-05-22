@@ -4,7 +4,7 @@ A list of token ID's that should not contain any NSFW content.
 
 | Token Name            | NFT   | About     | Token ID                                                         |
 | --------------------- | ----- | --------- | ---------------------------------------------------------------- |
-| ErgoTipperTest        | No    | Test token for ergotipper bot [link](https://ergexplorer.com/token#           | 020af20e495c0d4a9b02743cb0fff88c3ccee9842bf17ee2604d7f50531c879a |
+| ErgoTipperTest        | No    | Test token for ergotipper bot [link](https://ergexplorer.com/token#           | 020af20e495c0d4a9b02743cb0fff88c3ccee9842bf17ee2604d7f50531c879a) |
 | SigUSD                | No    |           | 03faf2cb329f2e90d6d23b58d91bbb6c046aa143261cc21f52fbe2824bfcbf04 |
 | SigRSV                | No    |           | 003bd19d0187117f130b62e1bcab0939929ff5c7709f843c5c4dd158949285d0 |
 | COMET                 | No    |           | 0cd8c9f416e5b1ca9f986a7f10a84191dfb85941619e49e53c0dc30ebf83324b |
