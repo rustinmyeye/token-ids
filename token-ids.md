@@ -106,9 +106,7 @@ Sure, I'll rearrange the table according to your specifications:
 | SBELLISONULTRARARE     | Yes    |                                                                                                                                   | b46bab292977e3378fb09bf30d7628e8d488eddb5175e53574ea55f54b497fe9 |
 | SCARYGARYULTRARARE     | Yes    |                                                                                                                                   | c25a51b25e761acf5d56954cf1a678c0226ecb8616787ef1980a6f540ae3b640 |
 | SHITCOINKINGULTRARARE  | Yes    |                                                                                                                                   | df8e1f2260f78199afefd3794ed6d527630aa28fec1af34913f48df1f4c6bfc5 |
-| TEAMANDANULTRARARE     | Yes    |                                                                                                                                   | 2f9cfc1dc96d3668957673ac0ed1b4a1c
-
-9a624cb4d24878bc29f43f47f6829ef |
+| TEAMANDANULTRARARE     | Yes    |                                                                                                                                   | 2f9cfc1dc96d3668957673ac0ed1b4a1c9a624cb4d24878bc29f43f47f6829ef |
 | THEKROWELLULTRARARE    | Yes    |                                                                                                                                   | f053bc52f9fb3cf35031fb5b8de69cf65d82b270585bc609dd0b51db6e7e58c3 |
 | HOSKINAUTULTRARARE     | Yes    |                                                                                                                                   | 7a426ff23b2b93d54c3b234a2a5d8a6633fc3d7f8830906952a8e493cc6e2b8a |
 | dandelions             | Yes    |                                                                                                                                   | 72f0c249977e2bfd758e54640cb456ceba0b4e3f2989ba0ebff92d53e9e7763c |
