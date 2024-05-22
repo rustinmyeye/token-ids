@@ -1,6 +1,4 @@
-# Token ID's
-
-## Trusted token list
+# Trusted token list
 
 Sure, I'll rearrange the table according to your specifications:
 
